@@ -1,13 +1,25 @@
-# React + Vite
+# Movie App with React Hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The **Movie App** is a dynamic React application that allows users to view, filter, and add new movies to a list. Built using **React hooks**, the app leverages the `useState` hook for managing movie data and filtering functionality. The project is styled using **Bootstrap** for layout and buttons, along with **Tailwind CSS** for custom styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used:
+- **React**: For building the user interface and managing state with React hooks.
+- **React `useState` hook**: For managing the state of movies and filter criteria.
+- **Bootstrap**: For layout, buttons, and some responsive elements.
+- **Tailwind CSS**: For custom utility-based styling (spacing, borders, typography).
 
-## Expanding the ESLint configuration
+## Setup & Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# gomycode-react-hook-project
+To set up this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/movie-app.git
+
+## Author
+Grace Wambui Mugece
+
+## Conclusion
+This Movie App project is an excellent example of how to use React hooks to build a simple, interactive application. It combines the power of React, Bootstrap, and Tailwind CSS to create a responsive and engaging user experience. The app allows users to easily filter and add movies, making it a great foundation for further learning and enhancement.
